@@ -1368,6 +1368,7 @@ input, select, textarea {
 				flex-direction: column;
 				position: relative;
 				max-width: 100%;
+				height:auto
 				padding: 5rem 2rem;
 				overflow:hidden;
 			}
