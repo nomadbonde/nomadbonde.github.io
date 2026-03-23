@@ -1321,6 +1321,7 @@ input, select, textarea {
 				transition-delay: 0.25s;
 				padding: 5rem 2rem;
 				max-height: 40rem;
+				width: 100%
 				overflow: hidden;
 			}
 
@@ -1452,7 +1453,6 @@ input, select, textarea {
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
-				max-height: 20rem;
 			}
 
 			#header .content p {
@@ -1469,7 +1469,6 @@ input, select, textarea {
 
 				#header .content .inner {
 					padding: 2.5rem 0;
-					max-height: 20rem;
 				}
 
 				#header nav ul {
